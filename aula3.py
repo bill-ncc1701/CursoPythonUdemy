@@ -14,6 +14,7 @@ print("Olá, Otávio!")
 # Ecape \
 print('\'Olá, Willian\'')
 print("Olá, Willian \"Otávio\"")
+print (1,'Luiz "Otávio"')
 
 # r
 print(r'\'Olá, Willian\'')
