@@ -1,1 +1,1 @@
-print(1 + 2)
+print("Atenção! Este programa é um exemplo de código Python.")  
