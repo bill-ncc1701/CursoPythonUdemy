@@ -1,6 +1,6 @@
-nome = 'Luiz Otávio'
-altura = 1.80
-peso = 95
+nome = 'Willian'
+altura = 1.75
+peso = 84
 imc = peso / altura ** 2
 
 "f-strings"
